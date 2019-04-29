@@ -1,12 +1,16 @@
-This repository contains the materials for my abstract, paper, and presentation
-at the 2016 Bicycle and Motorcycle Dynamics Conference.
+This repository contains the sources for the paper:
 
-| Rendered Paper: https://dx.doi.org/10.6084/m9.figshare.3806310.v1
-| Rendered Presentation: http://www.moorepants.info/presentations/2016/BMD2016/
+   J. K. Moore, M. Hubbard, and R. A. Hess, "Method for the design of an
+   optimal handling bicycle," 2018.
 
+The paper is based on the work presented in the conference paper:
+
+   J. Moore, M. Hubbard, and R. A. Hess, "An Optimal Handling Bicycle," in
+   Proceedings of the 2016 Bicycle and Motorcycle Dynamics Conference, 2016.
+   https://dx.doi.org/10.6084/m9.figshare.3806310.v1
 
 License
 =======
 
-The source code is licensed under the BSD 3 Clause license and the remainder of
-the content is licensed under the CC-BY-4.0.
+The content of this repository is licensed under the Creative Commons
+Attribution 4.0 license. See ``LICENSE``.
